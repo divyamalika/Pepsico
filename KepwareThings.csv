@@ -1,3 +1,0 @@
-SourceGateway,Path,TagName,IndustrialDataType,ReadOnly,TagDescription,Units,DefaultValue,EntityName,ThingTemplate,PropertyName,Category,ScanRate,PropertyDescription,PushType,PushThreshold,BaseType,Persistent,ValueStream
-KEPServerEX,Simulation Examples.Functions,Ramp1,Long,TRUE,Value increments by 4 from 35 to 100 every 120  ms,,,LTTS_KepwareCheck,RemoteThing,Ramp1,Industrial,100,,DEADBAND,1,INTEGER,FALSE,LTTS_DeviceOnboarding_Kepware_VS
-KEPServerEX,Simulation Examples.Functions,Random1,Long,TRUE,Random values from -20 to 75 that change every 30 ms,,,LTTS_KepwareCheck,RemoteThing,Random1,Industrial,100,,VALUE,0,INTEGER,FALSE,LTTS_DeviceOnboarding_Kepware_VS
