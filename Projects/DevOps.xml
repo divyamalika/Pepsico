@@ -6,7 +6,7 @@
  modelPersistenceProviderPackage="PostgresPersistenceProviderPackage"
  revision="0"
  schemaVersion="1050"
- universal="password">
+ universal="">
     <Projects>
         <Project
          artifactId=""
